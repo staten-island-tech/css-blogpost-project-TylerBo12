@@ -1,24 +1,46 @@
 Body {
-background-color: rgba(105, 138, 167, 0.308);
-color: black ;
-font-size: 20px;
+    background-color: lightblue;
+    color: black;
+    font-size: 30px;
 }
 
-.head1{
+
+
+.para1 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-top: 10px;
     text-align: center;
-   border-radius: 5px;
-   padding: 10px auto;
-   background-color:  azure; 
-   Margin: 10px auto;
-}
-
-.backgrounds{
-    color: brown;
+    padding: 10px  ;
     
+    
+    
+}
+
+.para2 {
+   
+    color: black;
+
     background-image: url();
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 5vh;
+    text-align: center;
+    
+}
+
+.para3 {
+
+    Display: flex;
+    justify-content: center;
+    height: 10px;
 
 }
 
+.para4{
 
+    text-align: center;
 
-
+}
