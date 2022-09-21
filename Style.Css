@@ -1,30 +1,54 @@
 Body {
-    background-color: lightblue;
-    color: black;
-    font-size: 30px;
+  background-color: lightblue;
+  color: black;
+  font-size: 30px;
 }
 
 
+.container {
+  padding: 10px;
+  margin: auto;
+  /* width: 10vw; */
+  background-color: aquamarine;
+  text-align: center;
+  border-radius: 10px;
+}
+
+*,
+body,
+html {
+  box-sizing: border-box;
+}
 
 .para1 {
-    background-color: aliceblue;
-    border-radius: 10px;
-    text-align: center;
-    
-    
-    
+  background-color: aquamarine;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin: auto;
+  text-align: center;
+ 
+  padding: 20px;
+  width: 30vw;
+  margin-bottom: 30px;
 }
 
-   
-    color: black;
-
-    background-image: url();
-    text-align: center;
+.Stickbug {
+  width: 30vw;
+  align-items: center;
 }
 
-.para3 {
+.golden{
 
 
+width: 30vw;
+align-items: center;
 
 
+}
 
+.oreo{
+
+width: 40vw;
+align-items: center;
+
+}
